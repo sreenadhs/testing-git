@@ -1,1 +1,2 @@
 nothing to display at this time
+changing content from terminal
