@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-nothing to display at this time
-changing content from terminal
-started analysis
-=======
-nothing to display
->>>>>>> acd15e386be4b58baae94a6b43deddc56f7d48aa
+nothing to display at this good time
