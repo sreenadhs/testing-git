@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 nothing to display at this good time
-=======
-nothing to display at this time
-
->>>>>>> fe8e3d70ffb67a00385d6f5de45eea8a5b432b4f
 new changes added
